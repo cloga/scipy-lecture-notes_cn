@@ -1,2 +1,1 @@
-Pytho科学计算生态的介绍的中文翻译：http://scipy-lectures.github.io
- 
+Pytho科学计算生态的介绍的中文翻译：http://nbviewer.ipython.org/github/cloga/scipy-lecture-notes_cn/tree/master/
